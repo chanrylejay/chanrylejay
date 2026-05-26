@@ -23,5 +23,5 @@ using n8n, Postgres, Telegram, and AI-assisted architecture.
 ## 📫 Find Me
 
 - 🌐 [Portfolio](https://chanryle-cagara.vercel.app/)
-- 💼 [LinkedIn](https://ph.linkedin.com/in/chanryle-cagara-b31922185)
+- 💼 [LinkedIn](https://ph.linkedin.com/in/chanrylejay)
 - 📧 asunacagara@gmail.com
