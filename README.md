@@ -1,16 +1,27 @@
-## Hi there 👋
+# Hi, I'm Chan 👋
 
-<!--
-**chanrylejay/chanrylejay** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**Trust & Safety Professional** at Accenture, Manila.
 
-Here are some ideas to get you started:
+I build production automation systems that solve real problems — 
+using n8n, Postgres, Telegram, and AI-assisted architecture.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🔧 What I Build
+
+- **[Supervisor Error Handling](https://github.com/chanrylejay)** — Zero-cost, 
+  48-node production monitoring system. 22 audit rounds, 32 bugs fixed, $0/month.
+- **[Shiny Gmail Automation](https://github.com/chanrylejay/shiny-gmail-automation)** — 
+  AI-powered email cleanup with Telegram bot control.
+- **[Portfolio](https://chanryle-cagara.vercel.app/)** — My personal site.
+
+## 📊 Quick Stats
+
+| Project | Workflows | Nodes | Monthly Cost |
+|---------|-----------|-------|-------------|
+| Supervisor V1 Lean | 3 | 48 | $0 |
+| Shiny Gmail V2.7 | 3 | 55 | ~$0.10 |
+
+## 📫 Find Me
+
+- 🌐 [Portfolio](https://chanryle-cagara.vercel.app/)
+- 💼 [LinkedIn](https://ph.linkedin.com/in/chanryle-cagara-b31922185)
+- 📧 asunacagara@gmail.com
