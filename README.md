@@ -1,27 +1,30 @@
-# Hi, I'm Chan 👋
+### hey, im chan 👋
 
-**Trust & Safety Professional** at Accenture, Manila.
+i build automation systems with n8n, ai agents, and postgres.
+based in the philippines, currently freelancing on upwork.
 
-I build production automation systems that solve real problems — 
-using n8n, Postgres, Telegram, and AI-assisted architecture.
+---
 
-## 🔧 What I Build
+### what ive built
 
-- **[Supervisor Error Handling](https://github.com/chanrylejay)** — Zero-cost, 
-  48-node production monitoring system. 22 audit rounds, 32 bugs fixed, $0/month.
-- **[Shiny Gmail Automation](https://github.com/chanrylejay/shiny-gmail-automation)** — 
-  AI-powered email cleanup with Telegram bot control.
-- **[Portfolio](https://chanryle-cagara.vercel.app/)** — My personal site.
+🧮 **[n8n Project Calculator](https://n8n-project-calculator.vercel.app)**
+free web app that estimates n8n project costs — build price, hosting, complexity rating.
+the only tool like this that exists. built with next.js + vercel + deepseek api.
 
-## 📊 Quick Stats
+🛡️ **[Supervisor Error Monitor](https://github.com/chanrylejay/supervisor-error-handling-workflow)**
+self-hosted error monitoring for n8n workflows. circuit breaker, auto-retry,
+telegram alerts. 3 workflows, 48 nodes, $0/month. 22 audit rounds.
 
-| Project | Workflows | Nodes | Monthly Cost |
-|---------|-----------|-------|-------------|
-| Supervisor V1 Lean | 3 | 48 | $0 |
-| Shiny Gmail V2.7 | 3 | 55 | ~$0.10 |
+✨ **[Shiny Gmail Automation](https://github.com/chanrylejay/shiny-gmail-automation)**
+ai-powered gmail inbox cleanup on n8n. gemini sorts emails, gmail labels
+track everything, telegram lets you set the rules. 60 nodes, 3 workflows.
 
-## 📫 Find Me
+---
 
-- 🌐 [Portfolio](https://chanryle-cagara.vercel.app/)
-- 💼 [LinkedIn](https://ph.linkedin.com/in/chanrylejay)
-- 📧 asunacagara@gmail.com
+### stack
+
+`n8n` `postgresql` `next.js` `vercel` `deepseek api` `gemini api` `telegram bot api`
+
+---
+
+📫 reach me on [linkedin](https://linkedin.com/in/chanrylejay) or [upwork](https://upwork.com/freelancers/~01c62edc2e375ef8ce)
