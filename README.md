@@ -1,30 +1,29 @@
-### hey, im chan 👋
+# 👋 Hey, I'm Chanryle Jay Cagara
 
-i build automation systems with n8n, ai agents, and postgres.
-based in the philippines, currently freelancing on upwork.
+**AI Automation & Technical Operations Specialist**
+Building production automation systems and full-stack web apps.
 
----
-
-### what ive built
-
-🧮 **[n8n Project Calculator](https://n8n-project-calculator.vercel.app)**
-free web app that estimates n8n project costs — build price, hosting, complexity rating.
-the only tool like this that exists. built with next.js + vercel + deepseek api.
-
-🛡️ **[Supervisor Error Monitor](https://github.com/chanrylejay/supervisor-error-handling-workflow)**
-self-hosted error monitoring for n8n workflows. circuit breaker, auto-retry,
-telegram alerts. 3 workflows, 48 nodes, $0/month. 22 audit rounds.
-
-✨ **[Shiny Gmail Automation](https://github.com/chanrylejay/shiny-gmail-automation)**
-ai-powered gmail inbox cleanup on n8n. gemini sorts emails, gmail labels
-track everything, telegram lets you set the rules. 60 nodes, 3 workflows.
+📍 Manila, Philippines · 💼 [LinkedIn](https://linkedin.com/in/chanrylejay) · 🌐 [Portfolio](https://chanryle-cagara.vercel.app) · 📧 chanrylecagara@gmail.com
 
 ---
 
-### stack
+### 🔥 Featured Projects
 
-`n8n` `postgresql` `next.js` `vercel` `deepseek api` `gemini api` `telegram bot api`
+#### 🍳 [ma, Ano Ulam?](https://ma-anoulam.vercel.app) — Filipino Meal Suggestion Engine
+Daily meal suggestions based on **real Department of Agriculture market prices**. 47 hardcoded recipes, automated daily price scraping, per-ingredient cost breakdowns with trend arrows. Zero AI calls per visit — everything is pre-computed.
+**Stack:** Next.js 14 · TypeScript · Neon PostgreSQL · DeepSeek API · Vercel Cron
+
+#### 🧮 [n8n Project Calculator](https://n8n-project-calculator.vercel.app) — Instant n8n Pricing Estimates
+Web app that helps clients estimate n8n automation project costs in seconds. Built with React + TypeScript + Vite.
+
+#### 📧 [Shiny Gmail Automation](https://github.com/chanrylejay/shiny-gmail-automation) — AI-Powered Inbox Cleanup
+Gemini-powered Gmail classification + Telegram control surface. 3 workflows, 60 nodes, $0/month. Published on LinkedIn and n8n Community.
+
+#### 🛡️ [Supervisor Error Monitor](https://github.com/chanrylejay/supervisor-error-handling-workflow) — n8n Error Handling System
+Production error monitoring with Telegram alerts and Neon PostgreSQL logging. 3 workflows, 48 nodes, zero AI.
 
 ---
 
-📫 reach me on [linkedin](https://linkedin.com/in/chanrylejay) or [upwork](https://upwork.com/freelancers/~01c62edc2e375ef8ce)
+### 🛠️ Tech I Work With
+
+`n8n` · `Next.js` · `TypeScript` · `React` · `Tailwind CSS` · `PostgreSQL` · `Vercel` · `DeepSeek API` · `Gemini API` · `Telegram Bot API` · `Python` · `PowerShell`
